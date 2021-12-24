@@ -10,7 +10,7 @@ Type script example:
 ```ts
 import { getAudioUrl } from 'uberduck-api'
 
-await getAudioUrl(
+getAudioUrl(
     your key, 
     your secret Key, 
     carachter, 
