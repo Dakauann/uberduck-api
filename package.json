@@ -1,10 +1,9 @@
 {
   "name": "uberduck-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Module to make requests on uberduck",
   "main": "speech.js",
   "dependencies": {
-    "path": "^0.12.7",
     "node-fetch": "^2.6.1",
     "request": "^2.88.2"
   },
@@ -26,4 +25,3 @@
   },
   "homepage": "https://github.com/Dakauann/uberduck-api#readme"
 }
-

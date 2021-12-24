@@ -6,7 +6,7 @@ const fetch = require('node-fetch')
 function wait() {
     return new Promise(resolve => resolve(20))
 }
-function getAudioStream(
+function getAudioUrl(
     key: string,
     secretKey: string,
     carachter: string,
@@ -48,5 +48,5 @@ function getAudioStream(
 }
 
 export {
-    getAudioStream
+    getAudioUrl
 }

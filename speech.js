@@ -9,13 +9,13 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
     });
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.getAudioStream = void 0;
+exports.getAudioUrl = void 0;
 const request = require('request');
 const fetch = require('node-fetch');
 function wait() {
     return new Promise(resolve => resolve(20));
 }
-function getAudioStream(key, secretKey, carachter, text) {
+function getAudioUrl(key, secretKey, carachter, text) {
     if (carachter === undefined)
         throw new Error('Define the carachter voice.');
     if (key === undefined)
@@ -54,4 +54,4 @@ function getAudioStream(key, secretKey, carachter, text) {
         }));
     }));
 }
-exports.getAudioStream = getAudioStream;
+exports.getAudioUrl = getAudioUrl;

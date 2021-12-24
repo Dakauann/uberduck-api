@@ -8,9 +8,9 @@ After done that, u can follow the example bellow.
 Type script example:
 ```
 ```ts
-import { getAudioStream } from 'uberduck-api'
+import { getAudioUrl } from 'uberduck-api'
 
-const audioUrl = await getAudioStream(
+await getAudioUrl(
     your key, 
     your secret Key, 
     carachter, 
@@ -24,9 +24,9 @@ console.log(url)
 Java Script example:
 ```
 ```js
-const { getAudioStream } = require('uberduck-api')
+const { getAudioUrl } = require('uberduck-api')
 
-getAudioStream( your key, 
+getAudioUrl( your key, 
     your secret Key, 
     carachter, 
     text)
