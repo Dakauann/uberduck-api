@@ -1,7 +1,7 @@
 Simple module to make requests on uberduck
 
 
-You can get all the necessary informations like your key and secret key accesing: https://uberduck.ai/ and login in, them just click in your account image in the left upper side and choose manage account, finnaly create a API-KEY and get the two keys.
+You can get all the necessary informations like your key and secret key accesing: https://uberduck.ai/ and loging in, them just click in your account image in the left upper side and choose manage account, finnaly create a API-KEY and get the two keys.
 
 After done that, u can follow the example bellow.
 ```
@@ -34,8 +34,5 @@ getAudioUrl( your key,
     console.log(i)
 })
 ```
-
 If you need some help or want to report any bug <a href="https://wa.me/558494740630">Click Here<a> to contexto me via whatsapp
 Pra send me a email using: dakauannc@gmail.com
-
-<strong>I don't have a lot of time to answer, but whenever I do, I'll answer you!<strong>
