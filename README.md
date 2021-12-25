@@ -37,3 +37,5 @@ getAudioUrl( your key,
 
 If you need some help or want to report any bug <a href="https://wa.me/558494740630">Click Here<a> to contexto me via whatsapp
 Pra send me a email using: dakauannc@gmail.com
+
+<strong>I don't have a lot of time to answer, but whenever I do, I'll answer you!<strong>
