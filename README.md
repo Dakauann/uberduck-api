@@ -26,7 +26,8 @@ Java Script example:
 ```js
 const { getAudioUrl } = require('uberduck-api')
 
-getAudioUrl( your key, 
+getAudioUrl( 
+    your key, 
     your secret Key, 
     carachter, 
     text)
