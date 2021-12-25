@@ -35,5 +35,5 @@ getAudioUrl( your key,
 })
 ```
 
-If you need some help or want to report any bug <a href="https://wa.me/558494740630">Click Here<a> tô contexto me via whatsapp
+If you need some help or want to report any bug <a href="https://wa.me/558494740630">Click Here<a> to contexto me via whatsapp
 Pra send me a email using: dakauannc@gmail.com
