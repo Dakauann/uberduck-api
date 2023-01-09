@@ -26,7 +26,7 @@ function getAudioUrl(
             'pass': secretKey
         }
     }, async (erro, response, body) => {
-        if (erro) throw new Error('Error when making request, verify if yours params (key, secretKey, carachter) are correct.')
+        if (erro) throw new Error('Error when making request, verify if yours params (key, secretKey, character) are correct.')
         const audioResponse: string = 'https://api.uberduck.ai/speak-status?uuid=' + JSON.parse(body).uuid
         let jsonResponse: any = false
         async function getJson(url) {
